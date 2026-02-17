@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Hi, I'm Ilya
 
-<!--
-**ilyakashitsyn/ilyakashitsyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend / Full-Stack Developer | React • TypeScript • AI Integration
 
-Here are some ideas to get you started:
+I build modern, scalable web applications using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚛️ React 18+, Next.js, Vite  
+🎨 Tailwind CSS, shadcn/ui  
+🧠 OpenAI API, AI SDK, Cursor AI  
+🗄️ Supabase, Neon, Drizzle  
+🔄 TanStack Query, Zustand  
+📝 React Hook Form, Zod  
+🐳 Docker, Kubernetes, ArgoCD  
+🚀 GitHub Actions (CI/CD), Vercel  
+📊 Grafana, Loki  
+
+12+ years in web development.
+
+### 🕰️ Background
+
+Started in backend & CMS development (PHP, MySQL, WordPress, Joomla),
+worked with C# and Unity,
+and evolved into modern TypeScript / React / AI-driven architecture.
+
+💡 Currently focused on modern React ecosystem and AI-powered products.
+
+💪 Open to new frontend / full-stack opportunities.
